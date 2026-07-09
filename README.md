@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Pranav 👋<br>Who I am: Dual-degree undergrad — B.Tech in Information Technology at GTBIT, and B.Sc. in Data Science & AI from IIT Guwahati. Passionate about software engineering, ML/DS, and game design.<br><br>What I'm currently working on:<br><br>🎯 Strengthening my DSA (Data Structures & Algorithms) fundamentals — solving problems daily<br>🤖 A trading bot that runs autonomous paper trading<br>💼 Actively looking for SDE and Data Science/ML internships<br><br>Tools & tech I use:<br><br>Languages: Python, JavaScript, SQL<br>Web/APIs: REST APIs, HTML5/Canvas<br>ML/DS: Explainable AI tooling, standard ML/DS stack<br>Dev tools: Git, GitHub<br>How to reach me:<br><br>📧 Email: pranavkhera47@gmail.com<br>💼 LinkedIn: pranav-k-745533281<br>🐙 GitHub: Pranav2-4-7
+Hi, I'm Pranav 👋<br>Who I am: Dual-degree undergrad — B.Tech in Information Technology at GTBIT, and B.Sc. in Data Science & AI from IIT Guwahati. Passionate about software engineering, ML/DS, and game design.<br><br>What I'm currently working on:<br><br>🎯 Strengthening my DSA (Data Structures & Algorithms) fundamentals — solving problems daily<br>🤖 A trading bot that runs autonomous paper trading<br>💼 Actively looking for SDE and Data Science/ML internships
 
 
 ## 🌐 Socials:

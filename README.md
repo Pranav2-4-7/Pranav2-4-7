@@ -1,21 +1,18 @@
-# Hi, I'm Pranav 👋
- 
-**Who I am:**
-Dual-degree undergrad — B.Tech in Information Technology at GTBIT, and B.Sc. in Data Science & AI from IIT Guwahati. Passionate about software engineering, ML/DS, and game design.
- 
-**What I'm currently working on:**
-- 🎯 Strengthening my DSA (Data Structures & Algorithms) fundamentals — solving problems daily
-- 🤖 A trading bot that runs autonomous paper trading
-- 💼 Actively looking for SDE and Data Science/ML internships
-  
-**Tools & tech I use:**
-- **Languages:** Python, JavaScript, SQL
-- **Web/APIs:** REST APIs, HTML5/Canvas
-- **ML/DS:** Explainable AI tooling, standard ML/DS stack
-- **Dev tools:** Git, GitHub
-  
-**How to reach me:**
-- 📧 Email: [pranavkhera47@gmail.com](mailto:pranavkhera47@gmail.com)
-- 💼 LinkedIn: [pranav-k-745533281](https://www.linkedin.com/in/pranav-k-745533281/)
-- 🐙 GitHub: [Pranav2-4-7](https://github.com/Pranav2-4-7)
- 
+# 💫 About Me:
+Hi, I'm Pranav 👋<br>Who I am: Dual-degree undergrad — B.Tech in Information Technology at GTBIT, and B.Sc. in Data Science & AI from IIT Guwahati. Passionate about software engineering, ML/DS, and game design.<br><br>What I'm currently working on:<br><br>🎯 Strengthening my DSA (Data Structures & Algorithms) fundamentals — solving problems daily<br>🤖 A trading bot that runs autonomous paper trading<br>💼 Actively looking for SDE and Data Science/ML internships<br><br>Tools & tech I use:<br><br>Languages: Python, JavaScript, SQL<br>Web/APIs: REST APIs, HTML5/Canvas<br>ML/DS: Explainable AI tooling, standard ML/DS stack<br>Dev tools: Git, GitHub<br>How to reach me:<br><br>📧 Email: pranavkhera47@gmail.com<br>💼 LinkedIn: pranav-k-745533281<br>🐙 GitHub: Pranav2-4-7
+
+
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pranavkhera47@gmail.com) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=flat&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=flat&logo=Aseprite&logoColor=#7D929E) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Pranav2-4-7&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Pranav2-4-7&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Pranav2-4-7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=Pranav2-4-7&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
